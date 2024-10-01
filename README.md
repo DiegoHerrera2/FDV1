@@ -30,5 +30,12 @@ git lfs track *.txt
 
 ![gitattributes](images/atributes.png)
 
+- [.gitignore](https://github.com/DiegoHerrera2/FDV2/blob/main/.gitignore)
+- [.gitattributes](https://github.com/DiegoHerrera2/FDV2/blob/main/.gitattributes)
+
+
+- [Textura](https://github.com/DiegoHerrera2/FDV2/blob/main/Assets/texture.jpg)
+- [Script](https://github.com/DiegoHerrera2/FDV2/blob/main/Assets/Message.cs)
+
 ---
 
